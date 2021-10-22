@@ -21,3 +21,7 @@ end
 get '/contacts' do
 	erb :contacts
 end
+
+get '/menu' do
+  erb :menu
+end
