@@ -25,3 +25,6 @@ end
 get '/menu' do
   erb :menu
 end
+get '/something' do
+  erb :something
+end
